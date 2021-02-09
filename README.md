@@ -1,5 +1,5 @@
 
-My solution to the FrontendMentor.io REST countries API challenge.
+My solution to the Intro component with sign-up form challenge.
 
 Demo: https://zoldykk.github.io/signup-landing-page/
 
