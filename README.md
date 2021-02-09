@@ -3,7 +3,7 @@ My solution to the FrontendMentor.io Intro component with sign-up form challenge
 
 Demo: https://zoldykk.github.io/signup-landing-page/
 
-<h1>Challenge<h1/>
+## Challenge
     
 <p>Your challenge is to build out this landing page and get it looking as close to the design as possible.<p/>
 
