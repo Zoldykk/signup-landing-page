@@ -16,5 +16,3 @@ Your users should be able to:
      * Receive an error message when the form is submitted if any
         * input field is empty
         * the email address is not formatted correctly    
-         
- 
