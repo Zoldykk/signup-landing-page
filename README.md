@@ -15,9 +15,4 @@ Your users should be able to:
       <li>See hover states for all interactive elements on the page</li>
       <li>Receive an error message when the form is submitted if any input field is empty and the email address is not formatted correctly</li>
     </ul>
-  
-<style>
-  *{
-    font-size: 14px;
-    }
-</style>
+ 
