@@ -11,8 +11,8 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 Your users should be able to:
 
-     * Receive an error message when the form is submitted if any
-     * See hover states for all interactive elements on the page
-     * Receive an error message when the form is submitted if any
-        * input field is empty
-        * the email address is not formatted correctly    
+* Receive an error message when the form is submitted if any
+* See hover states for all interactive elements on the page
+* Receive an error message when the form is submitted if any
+  * input field is empty
+  * the email address is not formatted correctly    
